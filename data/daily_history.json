@@ -3220,12 +3220,12 @@
     "_synthesised": "Hourly arrays synthesised from daily totals using PVSyst shape (PV) and a 70/30 daytime/overnight commercial load split. Daily totals are real."
   },
   "2026-04-21": {
-    "current_hour": 20,
+    "current_hour": 21,
     "pv": 385.48,
-    "import": 1902.21,
+    "import": 1968.26,
     "export": 0.0,
     "self_consumption": 385.48,
-    "consumption": 2287.69,
+    "consumption": 2353.74,
     "hourly": {
       "pv": [
         0.0,
@@ -3275,7 +3275,7 @@
         95.64,
         100.48,
         100.74,
-        0.0,
+        66.05,
         0.0,
         0.0
       ],
@@ -3301,7 +3301,7 @@
         95.48,
         100.48,
         100.74,
-        0.0,
+        66.05,
         0.0,
         0.0
       ],
@@ -3344,10 +3344,10 @@
       },
       "standard": {
         "generation": 363.8,
-        "import": 959.76,
+        "import": 1025.81,
         "self_consumption": 363.8,
         "export": 0.0,
-        "utility_cost": 2158.79,
+        "utility_cost": 2307.35,
         "pv_savings": 818.3,
         "export_savings": 0.0
       },
