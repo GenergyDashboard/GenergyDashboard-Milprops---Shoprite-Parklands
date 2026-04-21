@@ -1,0 +1,18 @@
+{
+  "plant": "Shoprite Parklands",
+  "last_updated": "",
+  "yesterday": null,
+  "today": null,
+  "current_month": {
+    "period": "",
+    "data": {}
+  },
+  "monthly": {},
+  "lifetime": {},
+  "all_time_totals": {},
+  "savings": {
+    "today": {},
+    "current_month": {},
+    "all_time": {}
+  }
+}
