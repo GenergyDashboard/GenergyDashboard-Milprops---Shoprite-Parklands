@@ -8087,12 +8087,12 @@
     }
   },
   "2026-05-22": {
-    "current_hour": 16,
-    "pv": 97.55,
-    "import": 1702.02,
+    "current_hour": 18,
+    "pv": 98.56,
+    "import": 1899.52,
     "export": 0.0,
-    "self_consumption": 97.55,
-    "consumption": 1799.57,
+    "self_consumption": 98.56,
+    "consumption": 1998.08,
     "hourly": {
       "pv": [
         0.0,
@@ -8112,7 +8112,7 @@
         21.35,
         8.23,
         6.18,
-        0.0,
+        1.01,
         0.0,
         0.0,
         0.0,
@@ -8138,8 +8138,8 @@
         135.91,
         122.92,
         104.49,
-        0.0,
-        0.0,
+        100.72,
+        97.79,
         0.0,
         0.0,
         0.0,
@@ -8164,8 +8164,8 @@
         114.56,
         114.69,
         98.31,
-        0.0,
-        0.0,
+        99.71,
+        97.79,
         0.0,
         0.0,
         0.0,
@@ -8202,20 +8202,20 @@
     "tou_breakdown": {
       "peak": {
         "generation": 5.28,
-        "import": 290.56,
+        "import": 388.35,
         "self_consumption": 5.28,
         "export": 0.0,
-        "utility_cost": 653.56,
+        "utility_cost": 873.52,
         "pv_savings": 11.88,
         "export_savings": 0.0
       },
       "standard": {
-        "generation": 92.27,
-        "import": 1009.03,
-        "self_consumption": 92.27,
+        "generation": 93.28,
+        "import": 1108.74,
+        "self_consumption": 93.28,
         "export": 0.0,
-        "utility_cost": 2269.61,
-        "pv_savings": 207.54,
+        "utility_cost": 2493.89,
+        "pv_savings": 209.81,
         "export_savings": 0.0
       },
       "off_peak": {
@@ -8230,17 +8230,17 @@
     },
     "savings": {
       "pv_savings": {
-        "peak": 9.14,
-        "standard": 210.28,
+        "peak": 9.23,
+        "standard": 212.46,
         "off_peak": 0.0,
-        "total": 219.42
+        "total": 221.69
       },
       "export_savings": {
         "standard": 0.0,
         "off_peak": 0.0,
         "total": 0.0
       },
-      "total": 219.42
+      "total": 221.69
     }
   }
 }
