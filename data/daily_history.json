@@ -10285,12 +10285,12 @@
     }
   },
   "2026-06-05": {
-    "current_hour": 4,
-    "pv": 0.0,
-    "import": 299.52,
+    "current_hour": 8,
+    "pv": 14.17,
+    "import": 732.29,
     "export": 0.0,
-    "self_consumption": 0,
-    "consumption": 299.52,
+    "self_consumption": 14.17,
+    "consumption": 746.46,
     "hourly": {
       "pv": [
         0.0,
@@ -10300,8 +10300,8 @@
         0.0,
         0.0,
         0.0,
-        0.0,
-        0.0,
+        0.43,
+        13.74,
         0.0,
         0.0,
         0.0,
@@ -10324,10 +10324,10 @@
         60.28,
         57.73,
         59.52,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
+        57.22,
+        134.27,
+        134.19,
+        121.26,
         0.0,
         0.0,
         0.0,
@@ -10350,10 +10350,10 @@
         60.28,
         57.73,
         59.52,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
+        57.22,
+        134.27,
+        133.76,
+        107.52,
         0.0,
         0.0,
         0.0,
@@ -10399,46 +10399,46 @@
     },
     "tou_breakdown": {
       "peak": {
-        "generation": 0.0,
-        "import": 0.0,
-        "self_consumption": 0,
+        "generation": 0.43,
+        "import": 268.03,
+        "self_consumption": 0.43,
         "export": 0.0,
-        "utility_cost": 0.0,
-        "pv_savings": 0.0,
+        "utility_cost": 602.88,
+        "pv_savings": 0.97,
         "export_savings": 0.0
       },
       "standard": {
-        "generation": 0.0,
-        "import": 0.0,
-        "self_consumption": 0,
+        "generation": 13.74,
+        "import": 107.52,
+        "self_consumption": 13.74,
         "export": 0.0,
-        "utility_cost": 0.0,
-        "pv_savings": 0.0,
+        "utility_cost": 241.84,
+        "pv_savings": 30.91,
         "export_savings": 0.0
       },
       "off_peak": {
         "generation": 0.0,
-        "import": 299.52,
+        "import": 356.74,
         "self_consumption": 0,
         "export": 0.0,
-        "utility_cost": 673.71,
+        "utility_cost": 802.42,
         "pv_savings": 0.0,
         "export_savings": 0.0
       }
     },
     "savings": {
       "pv_savings": {
-        "peak": 0.0,
-        "standard": 0.0,
+        "peak": 0.01,
+        "standard": 31.86,
         "off_peak": 0.0,
-        "total": 0.0
+        "total": 31.87
       },
       "export_savings": {
         "standard": 0.0,
         "off_peak": 0.0,
         "total": 0.0
       },
-      "total": 0.0
+      "total": 31.87
     }
   }
 }
