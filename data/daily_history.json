@@ -13268,12 +13268,12 @@
     }
   },
   "2026-06-24": {
-    "current_hour": 15,
-    "pv": 426.6,
-    "import": 1212.03,
+    "current_hour": 17,
+    "pv": 450.39,
+    "import": 1386.37,
     "export": 0.0,
-    "self_consumption": 426.6,
-    "consumption": 1638.63,
+    "self_consumption": 450.39,
+    "consumption": 1836.76,
     "hourly": {
       "pv": [
         0.0,
@@ -13292,8 +13292,8 @@
         85.84,
         66.97,
         53.07,
-        0.0,
-        0.0,
+        21.01,
+        2.78,
         0.0,
         0.0,
         0.0,
@@ -13318,8 +13318,8 @@
         143.06,
         112.79,
         108.24,
-        0.0,
-        0.0,
+        103.06,
+        95.07,
         0.0,
         0.0,
         0.0,
@@ -13344,8 +13344,8 @@
         57.22,
         45.82,
         55.17,
-        0.0,
-        0.0,
+        82.05,
+        92.29,
         0.0,
         0.0,
         0.0,
@@ -13382,21 +13382,21 @@
     },
     "tou_breakdown": {
       "peak": {
-        "generation": 0.03,
-        "import": 268.8,
-        "self_consumption": 0.03,
+        "generation": 2.81,
+        "import": 361.09,
+        "self_consumption": 2.81,
         "export": 0.0,
-        "utility_cost": 604.61,
-        "pv_savings": 0.07,
+        "utility_cost": 812.2,
+        "pv_savings": 6.32,
         "export_savings": 0.0
       },
       "standard": {
-        "generation": 426.57,
-        "import": 564.22,
-        "self_consumption": 426.57,
+        "generation": 447.58,
+        "import": 646.27,
+        "self_consumption": 447.58,
         "export": 0.0,
-        "utility_cost": 1269.1,
-        "pv_savings": 959.48,
+        "utility_cost": 1453.66,
+        "pv_savings": 1006.74,
         "export_savings": 0.0
       },
       "off_peak": {
@@ -13411,17 +13411,17 @@
     },
     "savings": {
       "pv_savings": {
-        "peak": 0.66,
-        "standard": 958.89,
+        "peak": 0.7,
+        "standard": 1012.37,
         "off_peak": 0.0,
-        "total": 959.55
+        "total": 1013.06
       },
       "export_savings": {
         "standard": 0.0,
         "off_peak": 0.0,
         "total": 0.0
       },
-      "total": 959.55
+      "total": 1013.06
     }
   }
 }
