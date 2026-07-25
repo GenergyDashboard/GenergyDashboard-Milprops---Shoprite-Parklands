@@ -18135,12 +18135,12 @@
     }
   },
   "2026-07-25": {
-    "current_hour": 4,
-    "pv": 0.0,
-    "import": 314.75,
+    "current_hour": 7,
+    "pv": 0.38,
+    "import": 651.26,
     "export": 0.0,
-    "self_consumption": 0,
-    "consumption": 314.75,
+    "self_consumption": 0.38,
+    "consumption": 651.64,
     "hourly": {
       "pv": [
         0.0,
@@ -18150,7 +18150,7 @@
         0.0,
         0.0,
         0.0,
-        0.0,
+        0.38,
         0.0,
         0.0,
         0.0,
@@ -18174,9 +18174,9 @@
         65.28,
         62.72,
         60.29,
-        0.0,
-        0.0,
-        0.0,
+        60.16,
+        131.58,
+        145.15,
         0.0,
         0.0,
         0.0,
@@ -18200,9 +18200,9 @@
         65.28,
         62.72,
         60.29,
-        0.0,
-        0.0,
-        0.0,
+        60.16,
+        131.58,
+        144.77,
         0.0,
         0.0,
         0.0,
@@ -18258,20 +18258,20 @@
         "export_savings": 0
       },
       "standard": {
-        "generation": 0.0,
-        "import": 0.0,
-        "self_consumption": 0,
+        "generation": 0.38,
+        "import": 144.77,
+        "self_consumption": 0.38,
         "export": 0.0,
-        "utility_cost": 0.0,
-        "pv_savings": 0.0,
+        "utility_cost": 325.63,
+        "pv_savings": 0.85,
         "export_savings": 0.0
       },
       "off_peak": {
         "generation": 0.0,
-        "import": 314.75,
+        "import": 506.49,
         "self_consumption": 0,
         "export": 0.0,
-        "utility_cost": 707.97,
+        "utility_cost": 1139.25,
         "pv_savings": 0.0,
         "export_savings": 0.0
       }
@@ -18279,16 +18279,16 @@
     "savings": {
       "pv_savings": {
         "peak": 0.0,
-        "standard": 0.0,
-        "off_peak": 0.0,
-        "total": 0.0
+        "standard": 0.31,
+        "off_peak": 0.54,
+        "total": 0.85
       },
       "export_savings": {
         "standard": 0.0,
         "off_peak": 0.0,
         "total": 0.0
       },
-      "total": 0.0
+      "total": 0.85
     }
   }
 }
